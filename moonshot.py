@@ -85,8 +85,8 @@ HALT_CMD           = "move 0 0"
 ROBOT_AI_SPEED     = 12
 AI_SPEED_INC       = 4
 
-RF_MODEL_ID        = "my-first-project-s3pmu/5"
-RF_API_KEY         = "UnCpj4TyfcueHzcoVikk"
+RF_MODEL_ID        = "Roboflow model_url"
+RF_API_KEY         = "RoboFlow_API_key"
 RF_API_URL         = "https://detect.roboflow.com"
 INF_W, INF_H       = 640, 640  # Standard AI processing size
 
